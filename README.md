@@ -1,1 +1,1 @@
-A comprehensive GitHub Repository consisting of diverse AI Solutions for Evernorth Health Services
+Creating rapid data processing and collection system through OCR and LLMs
